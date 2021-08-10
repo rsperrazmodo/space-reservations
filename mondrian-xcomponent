@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "content": [
+        {
+            "elementType": "publish:mondrian:contentTile",
+            "title": "72\u02da",
+            "foreground": {
+                "alt": "An image of the sun",
+                "url": "http:\/\/xmodule-examples.modolabs.net\/docs\/images\/sun.png"
+            },
+            "background": {
+                "url": "http:\/\/xmodule-examples.modolabs.net\/docs\/images\/sky.jpg"
+            },
+            "link": {
+                "external": "https:\/\/forecast.weather.gov\/MapClick.php?lat=42.3651&lon=-71.0178"
+            }
+        }
+    ]
+}
