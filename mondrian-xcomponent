@@ -10,7 +10,10 @@
                "title":"Today: Wednesday, August 10",
                "subtitle":"Chestnut (Chicago), Floor 2, Services<br>Full Day (8 a.m. - 5 p.m.)",
                "link":{
-                  "external":"https://www.example.com/"
+                  "module":{
+                     "id":"desk_reservations",
+                     "page":"index"
+                  }
                }
             }
          ]
