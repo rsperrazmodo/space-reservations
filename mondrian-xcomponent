@@ -6,7 +6,7 @@
       {
          "elementType":"publish:mondrian:contentTile",
                "title":"Today: Wednesday, August 10",
-               "subtitle":"Chestnut (Chicago), Floor 2, Services, Desk 5<p>Full Day (8 a.m. - 5 p.m.)",
+               "subtitle":"Chestnut (Chicago), Floor 2, Services, Desk 5<br>Full Day (8 a.m. - 5 p.m.)",
                "link":{
                   "external":"https://www.example.com/"
                }
